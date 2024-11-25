@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tobboki</h1>
 <h3 align="center">A Frontend Web Developer - Competitive Programmer</h3>
 
-- 🔭 I’m currently working on [Taskeraizer (A todo web app)](https://github.com/Tobboki/Taskeraizer)
+- 🔭 I’m currently working on [PostDocs](https://github.com/Tobboki/PostDocs)
 
-- 🌱 I’m currently learning **Angular, Bootstrap and Manim**
+- 🌱 I’m currently learning **Django, C#, ASP.Net**
 
 - 📫 How to reach me **yaser.m.shabana@gmail.com**
 
